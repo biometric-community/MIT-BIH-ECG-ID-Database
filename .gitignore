@@ -1,0 +1,3 @@
+# Local download artifacts (data under extracted/ is tracked)
+ecg-id-database-1.0.0.zip
+*.zip
